@@ -1,0 +1,4 @@
+*Tipos de Parâmetros
+-Query Params: Parâmetros nomeados enviados na rota após "?" (filtros, paginação, etc)
+-Route Params: Parâmetros utilizados para identificar recursos
+-Request Body: Corpo da requisição, utilizado para criar ou alterar recursos
